@@ -1,0 +1,628 @@
+*{
+  font-family: "Heebo";
+}
+
+
+.ghgh123 {
+  color: rgb(0, 0, 0) !important;
+}
+.babu1 {
+  display: flex;
+}
+
+.container1 {
+  background-color: green !important;
+}
+
+.round1 {
+  border: 1px dotted #212529;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.d1 {
+  border: 15px solid green;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.anglemakeing {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: -50%;
+  width: 100%;
+  height: 100%;
+  background: green;
+  transform: skew(20deg);
+  z-index: 1;
+}
+
+.imgalin {
+  display: flex;
+  justify-content: center;
+}
+
+.fa-check {
+  content: "/f00c";
+  font-size: 15px;
+}
+
+.babu3 {
+  padding-left: 50px;
+  flex-basis: 50%;
+}
+
+.backimgnn {
+  background-image: url(../images/sdcsfdvcfvvf.jpg);
+  background-size: 100% 100%;
+
+  margin-left: 200px;
+}
+
+.wth {
+  min-width: 80px;
+}
+
+#name11, #name12, #name13, #name14{
+  border: 1px solid black;
+}
+.backclass {
+  flex-basis: 50%;
+}
+
+.backimgnn::before {
+  position: relative;
+  content: "";
+  top: 0;
+  left: -50%;
+  width: 100%;
+  height: 100%;
+  background: green;
+  transform: skew(20deg);
+  z-index: 1;
+}
+
+.row {
+  display: flex;
+}
+
+.backimgg {
+  background-image: url(../images/solar-panels-roof-new-modern-built-house-green-energy-from-sun-modern-sustainable-way-new-technology_158001-3498.jpg);
+  height: 300px;
+  background-size: 100% 100%;
+}
+
+.backimgg1 {
+  background-image: url(../images/villa-with-pool.jpg);
+  height: 300px;
+  background-size: 100% 100%;
+}
+
+.backimgg2 {
+  background-image: url(../images/w991x660.jpg);
+  height: 300px;
+  background-size: 100% 100%;
+}
+
+.backimgg3 {
+  background-image: url(../images/belairroadmostexpensivehousevera.jpg);
+  height: 300px;
+  background-size: 100% 100%;
+}
+
+.backimgg4 {
+  background-image: url(../images/modern-home.jpg);
+  height: 300px;
+  background-size: 100% 100%;
+}
+
+.backimgg5 {
+  background-image: url(../images/flamingo-ave-siesta-key-print.jpg);
+  height: 300px;
+  background-size: 100% 100%;
+}
+
+.fulldiv {
+  display: flex;
+  justify-content: center;
+}
+
+.imgagenting {
+  background-image: url(../images/call-to-action.jpg);
+  height: 300px;
+  width: 40%;
+  background-size: 100% 100%;
+}
+
+.babu4 {
+  padding-left: 50px;
+}
+
+.monttshadow {
+  box-shadow: 2px 3px 20px green;
+  padding: 15px;
+}
+
+.linkx {
+  background-color: rgb(255, 255, 255);
+  padding: 0px 5px 0px 6px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.lastcontact {
+  background-color: #0e2e50 !important;
+  /* height: 331px; */
+  width: 100%;
+  padding: 25px;
+}
+.lineheading {
+  background-color: #0e2e50 !important;
+}
+.lastline {
+  display: flex;
+}
+
+.textdown {
+  color: aliceblue;
+  font-size: 50px;
+}
+
+.wewe {
+  justify-content: center;
+}
+
+.lineheading {
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.eerre {
+  color: #666565;
+}
+
+.lining {
+  width: 90%;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.fa-location-dot {
+  content: "/f3c5";
+}
+
+.fa-phone {
+  content: "/fa-phone";
+}
+
+.fa-envelope {
+  content: "/f0e0";
+}
+
+.fa-twitter {
+  content: "/f099";
+}
+
+.fa-facebook {
+  content: "/f09a";
+}
+
+.fa-youtube {
+  content: "/f167";
+}
+
+.fa-linkedin {
+  content: "/f08c";
+}
+
+.fontwork {
+  font-size: 20px;
+  color: aliceblue;
+}
+
+.fa-arrow-left:before {
+  position: absolute;
+  bottom: 45%;
+  z-index: 132;
+  left: -30px;
+  font-size: 15px;
+  background: #00b98e;
+  border-radius: 50%;
+  padding: 10px;
+  color: white;
+}
+
+.fa-arrow-right:before {
+  position: absolute;
+  bottom: 45%;
+  z-index: 132;
+  right: -30px;
+  font-size: 15px;
+  background: #00b98e;
+  border-radius: 50%;
+  padding: 10px;
+  color: white;
+}
+
+.sliderrx {
+  margin: 20px;
+  border-radius: 5px;
+  border: 1px dashed rgba(0, 185, 142, 0.3) !important;
+  padding: 12px;
+  background: white;
+  outline-style: solid blue;
+  box-shadow: 1px 1px 6px 6px #d2ffe5;
+}
+
+.rtrr {
+  border: 1px solid white;
+  gap: 5px;
+}
+
+.btn121:focus {
+  background: none !important;
+  outline: none !important;
+  color: white !important;
+}
+
+.btn121 {
+  background: none !important;
+  outline: none !important;
+  color: white !important;
+}
+
+.about-img::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: -50%;
+  width: 100%;
+  height: 100%;
+  background: green;
+  transform: skew(20deg);
+  z-index: 1;
+}
+.about-img img {
+  position: relative;
+  z-index: 2;
+}
+.about-img {
+  position: relative;
+  overflow: hidden;
+  padding: 3em;
+  padding-right: 0px;
+}
+
+.txtprt {
+  padding-top: 25px;
+}
+
+.imgdiving p a {
+  color: #666565 !important;
+}
+
+.fixedbutton {
+  position: fixed;
+  right: 1px;
+  bottom: 50px;
+  background-color: #04a518;
+  border-radius: 20px;
+  border: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .fixedbutton {
+    right: 30%;
+  }
+  .cstmquery {
+    display: none;
+  }
+  .implink {
+    flex-direction: column;
+  }
+}
+.fa-arrow-turn-up {
+  content: "/f148";
+  font-size: 20px;
+}
+
+.carousel-control-prev-icon {
+  content: "/f104";
+  position: absolute;
+  left: -7%;
+  color: white;
+  border-radius: 50%;
+  background: green;
+  opacity: 1;
+  font-size: xx-large;
+}
+
+.carousel-control-next-icon {
+  content: "/f105";
+  position: absolute;
+  color: white;
+  right: 645%;
+  top: 275px;
+  border-radius: 50%;
+  background: green;
+  opacity: 1;
+  font-size: xx-large;
+}
+
+.lastuu {
+  display: flex;
+}
+
+.formenuery {
+  margin-top: 15px;
+}
+
+.cstmnanbar {
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+  top: 0px;
+  padding: unset;
+  z-index: 6;
+}
+
+#btnmovevup {
+  padding-top: 56px;
+}
+
+.fixedline {
+  padding: unset;
+}
+
+body {
+  background-color: #effdf5;
+}
+
+.container,
+.row {
+  background-color: white;
+}
+
+.greenork {
+  background: green;
+}
+
+.implink {
+  color: white;
+  flex-basis: 50%;
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 15px;
+  gap: 12px;
+}
+
+/*popup css*/
+.show-popup {
+  padding: 18px 40px;
+  background: #6e78ff;
+  border: none;
+  outline: none;
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  font-size: 18px;
+  color: #f2f2f2;
+  font-weight: 500;
+}
+.popup-container {
+  position: fixed;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  pointer-events: none;
+  z-index: 2;
+  right:60px;
+  top:60px;
+}
+.popup-container.active {
+  opacity: 1;
+  display: flex !important;
+  justify-content: flex-end !important;
+  pointer-events: auto;
+  transition: 0.4s ease;
+}
+.popup-container .popup-box {
+  width: 200px;
+  background: #f2f2f2;
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  transform: scale(0);
+}
+.popup-container.active .popup-box {
+  transform: scale(1);
+  transition: 1s ease;
+  text-align: center;
+  transition-delay: 0.25s;
+  border: 2px solid black;
+}
+.popup-box h1 {
+  color: #333;
+  line-height: 1;
+}
+.popup-box p {
+  color: #333;
+  margin: 12px 0 20px;
+}
+.popup-box button {
+	float: right;
+  width: fit-content;
+  height: fit-content;
+  background: #6e78ff;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  font-size: 18px;
+  color: #f2f2f2;
+  font-weight: 500;
+}
+
+.popup-box {
+  z-index: 5;
+}
+
+
+/*auto popup*/
+
+
+.popup{
+    background-color: #ffffff;
+    width: 350px;
+    padding: 10px 10px;
+    border: 2px solid black;
+    position: fixed;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    border-radius: 8px;
+    font-family: "Poppins",sans-serif;
+    display: none;
+    text-align: center;
+	z-index: 5;
+}
+
+.popup button{
+  display: inline;
+    margin:  0 0 20px auto;
+    background-color: transparent;
+    font-size: 30px;
+    color: #c5c5c5;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.popup p{
+    font-size: 14px;
+    text-align: justify;
+    margin: 20px 0;
+    line-height: 25px;
+}
+.popup a{
+    display: block;
+    width: 150px;
+    position: relative;
+    margin: 10px auto;
+    text-align: center;
+    background-color: #0f72e5;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 5px 0;
+}
+
+.text-center{
+  display: inline;
+}
+
+.popup .active{
+  opacity: 1;
+  display: flex !important;
+  justify-content: flex-end !important;
+  pointer-events: auto;
+  transition: 0.4s ease;
+}
+
+/*slider automatic */
+
+
+.imagewwww img{
+  width : 100%;
+  height: 700px;
+  }
+  .imagewwww {
+    display: none;
+  }
+  
+  /* Slideshow container */
+  .container3 {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  }
+  
+  /* Caption text */
+  .text122 {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 20px 15px;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    width: 40%;
+    background: rgba(0, 0, 0, 0.7);
+    text-align: center;
+  }
+  
+  /* The dots/bullets/indicators */
+  
+  .dotpart121{
+  text-align: center
+  }
+  
+  .dot00 {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: transparent;
+    border-color: #ddd;
+    border-width: 5 px;
+    border-style: solid;
+    border-radius: 50%;
+    display: inline-block;
+    transition: border-color 0.6s ease;
+  }
+  
+  /* On smaller screens, decrease text size */
+  @media only screen and (max-width: 300px) {
+    .text122 {
+      font-size: 11px;
+    }
+  }
+
+ul li.active{
+  background-color: green;
+}
+
+.uppdng{
+  padding-top: 100px;
+}
+
+.fa-house-chimney{
+  content:"/e3af";
+  font-size: x-large;
+}
+
+.okok{
+  display:flex;
+}
+
+.fa-phone{
+  content:"/f095";
+  font-size: x-large;
+}
+
+.fa-envelope{
+  content:"/f0e0";
+  font-size: x-large;
+}
+
+.fa-globe{
+  content:"/f0ac";
+  font-size: x-large;
+}
